@@ -1,5 +1,6 @@
 # Stock-Exchange-Project
 #include<stdio.h>
+
 struct user
 {
 	char username[20];
