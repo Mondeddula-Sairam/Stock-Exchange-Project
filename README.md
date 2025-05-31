@@ -1,4 +1,6 @@
 # Stock-Exchange-Project
+
+
 #include<stdio.h>
 
 struct user
